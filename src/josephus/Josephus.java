@@ -12,7 +12,7 @@ public class Josephus {
         ArrayList list = new ArrayList();
          
         //Definindo tamanho do array
-        System.out.println("**********O PROBLEMA DE JOSEPHUS**********");
+        System.out.println("***********O PROBLEMA DE JOSEPHUS***********");
         System.out.println("");
         System.out.println("Quantos soldados foram cercados pelos inimigos? ");
         int qSold = scn.nextInt();
